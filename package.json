@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author":"Senna Annaba Ahmad",
+	"keywords": [ "descriptive", "related", "words" ],
 	"description": "A project that does something awesome",
 	"dependencies": {
 		"express": "^4.14.0"
